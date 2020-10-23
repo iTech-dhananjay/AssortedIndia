@@ -82,7 +82,7 @@ const Home = ({ categories }) => {
         <Layout>
             <div className="row">
                 <div className="col-md-12">
-                    <h1 className="font-weight-bold">SMART CITY-Asorted India</h1>
+                    <h1 className="font-weight-bold">HOTEL-Assorted India</h1>
                     <br />
                 </div>
             </div>
