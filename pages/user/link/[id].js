@@ -84,7 +84,7 @@ const Update = ({ oldLink, token }) => {
                     <input
                         type="radio"
                         onClick={handleMediumClick}
-                        checked={medium === 'video'}
+                        checked={medium === 'Showroom'}
                         value="video"
                         className="from-check-input"
                         name="medium"
@@ -98,7 +98,7 @@ const Update = ({ oldLink, token }) => {
                     <input
                         type="radio"
                         onClick={handleMediumClick}
-                        checked={medium === 'book'}
+                        checked={medium === 'Third Party'}
                         value="book"
                         className="from-check-input"
                         name="medium"
