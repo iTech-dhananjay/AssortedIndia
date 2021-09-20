@@ -89,7 +89,7 @@ const Update = ({ oldLink, token }) => {
                         className="from-check-input"
                         name="medium"
                     />{' '}
-                    Video
+                    Showroom
                 </label>
             </div>
 
@@ -103,7 +103,7 @@ const Update = ({ oldLink, token }) => {
                         className="from-check-input"
                         name="medium"
                     />{' '}
-                    Book
+                    Third Party
                 </label>
             </div>
         </React.Fragment>
